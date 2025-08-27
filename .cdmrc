@@ -1,1 +1,6 @@
-tabs: ['README.md']
+{
+  "language": "html",
+  "entryFile": "index.html",
+  "tabs": ["README.md", "index.html"],
+  "instructions": "Read the README.md file carefully and complete index.html as per requirements."
+}
