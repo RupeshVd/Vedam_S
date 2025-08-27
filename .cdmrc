@@ -1,6 +1,20 @@
 {
-  "language": "html",
-  "entryFile": "index.html",
-  "tabs": ["README.md", "index.html"],
-  "instructions": "Read the README.md file carefully and complete index.html as per requirements."
+  "name": "vedamlab",
+  "version": "1.0.0",
+  "description": "HTML CSS JS lab for Vedam platform",
+  "entry": "index.html",
+  "visibleFiles": [
+    "index.html",
+    "style.css",
+    "script.js"
+  ],
+  "openFiles": [
+    "index.html"
+  ],
+  "author": "RupeshVd",
+  "tabs": [
+    "index.html",
+    "style.css",
+    "script.js"
+  ]
 }
