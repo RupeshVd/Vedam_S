@@ -1,20 +1,17 @@
 {
-  "name": "vedamlab",
+  "name": "html-lab",
   "version": "1.0.0",
-  "description": "HTML CSS JS lab for Vedam platform",
+  "description": "HTML Lab on Codedamn",
   "entry": "index.html",
   "visibleFiles": [
     "index.html",
-    "style.css",
-    "script.js"
+    "README.md"
   ],
   "openFiles": [
     "index.html"
   ],
-  "author": "RupeshVd",
   "tabs": [
-    "index.html",
-    "style.css",
-    "script.js"
+    "README.md",
+    "index.html"
   ]
 }
